@@ -2,7 +2,7 @@
 
 Some of my hardware hacking projects
 
-### Hantek 4032L logic analyzer
+## Hantek 4032L logic analyzer
 
-See hardware/protocol [description at Sigrok site](https://sigrok.org/wiki/Hantek_4032L).
-[Python access library](https://github.com/flowswitch/pyht4032l)
+- See hardware/protocol description at [Sigrok site](https://sigrok.org/wiki/Hantek_4032L).
+- [Python access library](https://github.com/flowswitch/pyht4032l)
